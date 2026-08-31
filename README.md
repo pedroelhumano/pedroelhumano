@@ -36,8 +36,8 @@
 <a href='https://youtu.be/MIAWEbxzDHs' target='_blank'>
   <img width='30%' src='https://img.youtube.com/vi/MIAWEbxzDHs/mqdefault.jpg' alt='Curso C++ Introducción al lenguaje - 2025' /zz>
 </a>
-<a href='https://youtu.be/XL0AOvybeNU' target='_blank'>
-  <img width='30%' src='https://img.youtube.com/vi/XL0AOvybeNU/mqdefault.jpg' alt='Tutorial Cheat Engine - Solución al tutorial completo' /zz>
+<a href='https://youtu.be/undefined' target='_blank'>
+  <img width='30%' src='https://img.youtube.com/vi/undefined/mqdefault.jpg' alt='Curso práctico C++ 2025' /zz>
 </a>
 </div>
 
